@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Ishtiuk Ahammmed</h1>
 <h3 align="center">A student of Diploma Engineering in Computer Science & Technology(CST).</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtiuk" alt="ishtiuk" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
