@@ -1,4 +1,4 @@
-<h1 align="center" style="background: radial-gradient(aqua, #00ff4a);">Hi 👋, I'm Md. Ishtiuk Ahammmed</h1>
+<h1 align="center">Hi 👋, I'm Md. Ishtiuk Ahammmed</h1>
 <h3 align="center">A student of Diploma Engineering in Computer Science & Technology(CST).</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
