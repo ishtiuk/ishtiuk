@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Ishtiuk Ahammed</h1>
+<h1 align="center">Hi 👋, I'm Md. Ishtiuk Ahamed</h1>
 <h3 align="center">A student of Diploma Engineering in Computer Science & Technology(CST).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtiuk&label=Profile%20views&color=0e75b6&style=flat" alt="ishtiuk" /> </p>
