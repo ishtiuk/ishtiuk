@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Ishtiuk Ahammmed</h1>
-<h3 align="center">A student of Diploma Engineering in Computer Science & Technology(CST).</h3>
+<h3 align="center">Deep Learning Enthusiast | NLP Enthusiast | MLOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtiuk&label=Profile%20views&color=0e75b6&style=flat" alt="ishtiuk" /> </p>
 
@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working on [Book Recommender AI](https://book-recommender-engine.onrender.com/recommend)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
+
+- 👨‍💻 All of my projects are available at [https://silverhand-portfolio.netlify.app/](https://silverhand-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
