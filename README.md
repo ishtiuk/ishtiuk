@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://silverhand-portfolio.netlify.app/](https://silverhand-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://xdl.netlify.app/](https://xdl.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
