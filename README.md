@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ishtiuk_ahammed" target="blank"><img src="https://img.shields.io/twitter/follow/ishtiuk_ahammed?logo=twitter&style=for-the-badge" alt="ishtiuk_ahammed" /></a> </p>
 
-- 🔭 I’m currently working on [Book Recommender AI](https://book-recommender-engine.onrender.com/recommend)
+- 🔭 I’m currently working on [DeepEmo Voice Emotion Detector](https://github.com/ishtiuk/DeepEmo-Voice-Emotion-Detector.git)
 
 - 🌱 I’m currently learning **Sequential Models (NLP)**
 
