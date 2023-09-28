@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Sequential Models (NLP)**
 
-- 👨‍💻 All of my projects are available at [[https://xdl.netlify.app/](https://silverhand-portfolio.netlify.app/#portfolio)](https://silverhand-portfolio.netlify.app/#portfolio)
+- 👨‍💻 All of my projects are available at [https://silverhand-portfolio.netlify.app/#portfolio](https://silverhand-portfolio.netlify.app/#portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
