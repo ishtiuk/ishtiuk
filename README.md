@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Book Recommender AI](https://book-recommender-engine.onrender.com/recommend)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Sequential Models (NLP)**
 
-- 👨‍💻 All of my projects are available at [https://xdl.netlify.app/](https://xdl.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://xdl.netlify.app/](https://silverhand-portfolio.netlify.app/#portfolio)](https://silverhand-portfolio.netlify.app/#portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
