@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ishtiukahammed4@gmail.com**
 
-- 📄 Know about my experiences [https://silverhand-portfolio.netlify.app](https://silverhand-portfolio.netlify.app)
+- 📄 Know about my experiences [https://ishtiuk-ahammed.netlify.app](https://ishtiuk-ahammed.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
