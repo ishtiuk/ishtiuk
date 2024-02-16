@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NLP and Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://silverhand-portfolio.netlify.app/#projects](https://silverhand-portfolio.netlify.app/#projects)
+- 👨‍💻 All of my projects are available at [https://ishtiuk-ahammed.netlify.app/#projects](https://ishtiuk-ahammed.netlify.app/#projects)
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
 
