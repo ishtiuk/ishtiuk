@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **NLP and Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://ishtiuk-ahammed.netlify.app/#projects](https://ishtiuk-ahammed.netlify.app/#projects)
+- 👨‍💻 All of my projects are available at [https://ishtiukahammed.netlify.app/#projects](https://ishtiukahammed.netlify.app/#projects)
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
 
 - 📫 How to reach me **ishtiuk2077@gmail.com**
 
-- 📄 Know about my experiences [https://ishtiuk-ahammed.netlify.app](https://ishtiuk-ahammed.netlify.app)
+- 📄 Know about my experiences [https://ishtiukahammed.netlify.app](https://ishtiukahammed.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
