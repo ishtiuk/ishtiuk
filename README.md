@@ -17,24 +17,23 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working as a **Junior MLOps Engineer at Blockstak**, building production-grade AI pipelines and scalable backend systems.
-- ⚙️ I’m leading the backend development of a **FastAPI-based full-stack application** with features like JWT auth, role-based access, Redis caching, Celery task queue, and PostgreSQL.
-- 🧠 I have strong experience in **Machine Learning, NLP, Computer Vision**, and scalable API development.
-- 🌱 I’m currently diving deeper into **LLMs**, **MLOps workflows**, and **cloud-native deployments**.
-- 💼 I’ve contributed to projects like:
-  - [DeepEmo – Voice Emotion Detector](https://github.com/ishtiuk/DeepEmo-Voice-Emotion-Detector.git)
-  - [Employee Registration Automation](https://github.com/ishtiuk/Employee-Registration-Automation.git)
-  - [FaceSense – Attendance App](https://github.com/ishtiuk/Face-Sense.git)
-- 👨‍💻 All my projects: [ishtiukahammed.netlify.app/#projects](https://ishtiukahammed.netlify.app/#projects)
-- 📫 Reach me at: **ishtiuk2077@gmail.com**
-- 📄 [Know more about me](https://ishtiukahammed.netlify.app)
+- 🔭 Currently working as a **Junior MLOps Engineer at Blockstak**, building production-grade AI systems and backend APIs.
+- ⚙️ Leading the backend of a **FastAPI-based full-stack application** with JWT auth, RBAC, Redis, Celery, PostgreSQL, and Docker.
+- 👨‍💻 Hands-on with Machine Learning, NLP, Computer Vision, API design, and DevOps.
+- 🌱 Learning more about LLMs, scalable architecture, and system design.
+- 💼 Notable Projects:
+  - [🔊 DeepEmo – Voice Emotion Detector](https://github.com/ishtiuk/DeepEmo-Voice-Emotion-Detector.git)
+  - [🧾 Employee Registration Automation](https://github.com/ishtiuk/Employee-Registration-Automation.git)
+  - [🧠 FaceSense – Face Recognition Attendance](https://github.com/ishtiuk/Face-Sense.git)
+- 📫 Contact: **ishtiuk2077@gmail.com**
+- 🌐 [My Portfolio](https://ishtiukahammed.netlify.app)
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/ishtiuk_ahammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishtiuk_ahammed" height="30" width="40" /></a>
+  <a href="https://twitter.com/ishtiuk_ahammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ishtiukahammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://kaggle.com/ishtiukahammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
   <a href="https://fb.com/ishtiuk.ahammed.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
@@ -45,23 +44,40 @@
 
 ## 🛠️ Languages and Tools
 
-<!-- Keep your icons list as-is below -->
 <p align="left">
-  <!-- ... your existing icons ... -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔍 GitHub Highlights
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishtiuk&show_icons=true&locale=en&layout=compact" alt="ishtiuk" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishtiuk&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishtiuk&show_icons=true&locale=en" alt="ishtiuk" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishtiuk&theme=github_dark" alt="summary" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishtiuk&" alt="ishtiuk streak" />
-</p>
+---
