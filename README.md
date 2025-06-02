@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsg-ishtiuk&theme=github_dark" alt="summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishtiuk&theme=github_dark" alt="summary" />
 </p>
 
 ---
