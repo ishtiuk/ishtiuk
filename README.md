@@ -94,11 +94,11 @@
 ## 🔍 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishtiuk&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsg-ishtiuk&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishtiuk&theme=github_dark" alt="summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsg-ishtiuk&theme=github_dark" alt="summary" />
 </p>
 
 ---
