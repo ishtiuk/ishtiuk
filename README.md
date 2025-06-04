@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/ishtiuk_ahammed" target="blank"><img src="https://img.shields.io/twitter/follow/ishtiuk_ahammed?logo=twitter&style=for-the-badge" alt="twitter follow" /></a>
+  <a href="https://linkedin.com/in/ishtiukahammed" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="linkedin follow" />
+  </a>
 </p>
 
 ---
