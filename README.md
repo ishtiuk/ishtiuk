@@ -210,6 +210,14 @@ Real-time multi-face recognition with live database updates and CSV logging
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishtiuk&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=f59e0b&line=ea580c&point=f59e0b" width="100%" />
 
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishtiuk/ishtiuk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishtiuk/ishtiuk/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ishtiuk/ishtiuk/output/github-snake.svg" width="100%" />
+  </picture>
+
 </div>
 
 ---
