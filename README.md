@@ -199,7 +199,7 @@ Real-time multi-face recognition with live database updates and CSV logging
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ishtiuk&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtiuk&theme=flat&column=7&margin-w=10&margin-h=10" alt="trophies" /></a>
 
   <br/><br/>
 
