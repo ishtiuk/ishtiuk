@@ -32,7 +32,7 @@ current_roles:
 focus: Fullstack Development, AI/ML Integration, Production SaaS
 products_shipped:
   - RysTRO (Restaurant Management SaaS) — rystro.com
-  - Midalloy AI (Enterprise Inventory Platform) — midalloy.com
+  - Midalloy Inventory Platform (Enterprise System) — midalloy.com
   - GreenJobsBoard (Career Ecosystem) — greenjobsboard.us
 ```
 
@@ -67,10 +67,10 @@ POS, table management, KOT, thermal ESC/POS printing, multi-branch, real-time We
 </td>
 <td width="50%">
 
-### [🏭 Midalloy AI](https://midalloy.com)
-**Enterprise Inventory Platform**
+### [🏭 Midalloy Inventory Platform](https://midalloy.com)
+**Enterprise Inventory Management System**
 
-4 Django microservices, Azure AD SSO, ML demand forecasting, 96K+ row ERP import, multi-warehouse
+End-to-end fullstack build for US metal/alloy distributor — 4 Django microservices, Azure AD SSO, ML demand forecasting, 96K+ row ERP import
 
 `Django` `React` `PostgreSQL` `GCP` `Azure AD`
 
