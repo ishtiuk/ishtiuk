@@ -29,7 +29,7 @@ location: Dhaka, Bangladesh
 current_roles:
   - Founder & CTO @ Archexify
   - Software Engineer I @ Techjays
-focus: Backend Systems, AI/ML Integration, Production SaaS
+focus: Fullstack Development, AI/ML Integration, Production SaaS
 products_shipped:
   - RysTRO (Restaurant Management SaaS) — rystro.com
   - Midalloy AI (Enterprise Inventory Platform) — midalloy.com
@@ -174,8 +174,8 @@ Real-time multi-face recognition with live database updates and CSV logging
 <tr><td>🥇</td><td><b>Govt. Acknowledged Backend Engineer</b></td><td>Government of Bangladesh (National ICT Division)</td></tr>
 <tr><td>🏆</td><td><b>Finalist — Code Samurai 2024</b></td><td>Code Samurai BD Hackathon</td></tr>
 <tr><td>🏆</td><td><b>Finalist — ITverse 2023 Datathon</b></td><td>IIT Software Engineers' Community, Dhaka University</td></tr>
-<tr><td>📜</td><td>PCAP Programming Essentials in Python</td><td></td></tr>
-<tr><td>📜</td><td>Google IT Automation</td><td></td></tr>
+<tr><td>📜</td><td>PCAP Programming Essentials in Python</td><td>Cisco Networking Academy</td></tr>
+<tr><td>📜</td><td>Google IT Automation</td><td>Coursera</td></tr>
 <tr><td>📜</td><td>Problem Solving (Intermediate)</td><td>HackerRank</td></tr>
 </table>
 
