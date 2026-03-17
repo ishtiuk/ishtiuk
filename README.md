@@ -199,10 +199,6 @@ Real-time multi-face recognition with live database updates and CSV logging
 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtiuk&theme=flat&column=7&margin-w=10&margin-h=10" alt="trophies" /></a>
-
-  <br/><br/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishtiuk&theme=dark&hide_border=true&background=0d1117&stroke=f59e0b&ring=f59e0b&fire=ea580c&currStreakLabel=f59e0b" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=ishtiuk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=ea580c&text_color=d4d4d8" width="49%" />
 
