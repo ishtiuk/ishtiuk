@@ -4,7 +4,7 @@
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=600&lines=Founder+%26+CTO+of+Archexify;Building+RysTRO+%E2%80%94+Restaurant+SaaS;Backend+%2B+AI+%2B+Fullstack+Engineer;Deploying+Production+Systems+at+Scale)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=600&lines=Building+RysTRO+%E2%80%94+Restaurant+SaaS;Backend+%2B+AI+%2B+Fullstack+Engineer;Deploying+Production+Systems+at+Scale)](https://git.io/typing-svg)
 
   <br/>
 
