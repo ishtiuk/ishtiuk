@@ -27,7 +27,6 @@
 name: Md. Ishtiuk Ahammed
 location: Dhaka, Bangladesh
 current_roles:
-  - Founder & CTO @ Archexify
   - Software Engineer I @ Techjays
 focus: Fullstack Development, AI/ML Integration, Production SaaS
 products_shipped:
