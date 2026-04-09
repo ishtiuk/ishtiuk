@@ -43,8 +43,7 @@ products_shipped:
 <tr><td><b>Role</b></td><td><b>Company</b></td><td><b>Period</b></td></tr>
 <tr><td>Software Engineer I</td><td><b>Techjays</b></td><td>Aug 2025 - Present</td></tr>
 <tr><td>Software Engineer I (Backend / MLOps)</td><td><b>ConneqtedAgents</b></td><td>Jan 2025 - Aug 2025</td></tr>
-<tr><td>Junior AI Engineer</td><td><b>NeuralFrameAi</b></td><td>Oct 2024 - Dec 2024</td></tr>
-<tr><td>Machine Learning Intern</td><td><b>NeuralFrameAi</b></td><td>Jun 2024 - Sep 2024</td></tr>
+<tr><td>Junior AI Engineer</td><td><b>NeuralFrameAi</b></td><td>Mar 2024 - Dec 2024</td></tr>
 </table>
 
 ---
