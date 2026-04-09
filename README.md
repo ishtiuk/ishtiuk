@@ -64,7 +64,7 @@ POS, table management, KOT, thermal ESC/POS printing, multi-branch, real-time We
 </td>
 <td width="50%">
 
-### [🏭 Midalloy Inventory Platform](https://midalloy.com)
+### [🏭 Inventory Platform]
 **Enterprise Inventory Management System**
 
 End-to-end fullstack build for US metal/alloy distributor — 4 Django microservices, Azure AD SSO, ML demand forecasting, 96K+ row ERP import
