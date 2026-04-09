@@ -31,7 +31,7 @@ current_roles:
 focus: Fullstack Development, AI/ML Integration, Production SaaS
 products_shipped:
   - RysTRO (Restaurant Management SaaS) — rystro.com
-  - Midalloy Inventory Platform (Enterprise System) — midalloy.com
+  - Inventory Platform (Enterprise System)
   - GreenJobsBoard (Career Ecosystem) — greenjobsboard.us
 ```
 
